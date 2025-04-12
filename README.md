@@ -4,8 +4,6 @@ A custom-designed, battery-powered GPS data logger built around the ESP32-WROVER
 
 ---
 
-  IMPORTANT NOTE: THIS PROJECT IS STILL IN DEVELOPMENT DUE TO UNAVAILIBITY OF THE PHYSICAL COMPONENTS FOR NOW, HOWEVER THE SCHEMATICS OF THE CIRCUIT IS SHARED :)
-
 ## 📦 Features
 
 - ✅ **ESP32-WROVER-IB-N4R8** (Dual-core MCU + Wi-Fi + Bluetooth)
@@ -70,3 +68,4 @@ A custom-designed, battery-powered GPS data logger built around the ESP32-WROVER
 - Web dashboard for map plotting  
 
 ---
+Physical implementation of the hardware is coming soon once the components are arranged..stay tuned ;)
