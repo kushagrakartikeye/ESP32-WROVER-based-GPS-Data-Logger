@@ -48,8 +48,8 @@ A custom-designed, battery-powered GPS data logger built around the ESP32-WROVER
 | 📷 PCB Preview | 🖼️ Schematic Snapshot |
 |----------------|------------------------|
 | ![PCB](![85a37e64-ad2e-41d8-8ec5-3b488e954e7a](https://github.com/user-attachments/assets/0d4b91be-da03-428a-bee5-32ae1dbc2acd)![f63590e7b3f14d25976cb2872803aa5f](https://github.com/user-attachments/assets/55f7a8ff-5591-4b73-b33c-295511631cc7)
- ()
-) |![Schematic](![d433b5c4-8367-4a77-9b2b-36b39dbae21a](https://github.com/user-attachments/assets/a63a3b58-0215-475e-8f3f-01bb109f8fec)
+ 
+| ![Schematic](![d433b5c4-8367-4a77-9b2b-36b39dbae21a](https://github.com/user-attachments/assets/a63a3b58-0215-475e-8f3f-01bb109f8fec)
 
 ---
 
